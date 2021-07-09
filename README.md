@@ -15,3 +15,5 @@ Example grids
 4 J C O F
 ```
 you will have 2 seconds to memorize the grid
+
+game.rb is the main file that needs to be run
